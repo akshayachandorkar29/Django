@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c6d976b-996f-426e-b5a8-eca66dca5f09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1ZvW8Pjx79sVq1cez8WlocJeokw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlaskProject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BridgeLabz\Django\django_project\django_app\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\BridgeLabz\Django\django_project\django_app\templates" />
+      <recent name="F:\BridgeLabz\Django\django_project\django_app\Templates\django_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <output_file is_save="true" />
+      <log_file alias="debug_django" path="$PROJECT_DIR$" />
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\BridgeLabz\Django\django_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django_project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django_project/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c6d976b-996f-426e-b5a8-eca66dca5f09" name="Default Changelist" comment="" />
+      <created>1585719887836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585719887836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585890362134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585890362134" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585899447085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585899447085" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1586495858895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586495858895" />
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.0.center" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.0.left" timestamp="1586006124631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586006124631" />
+    <state width="1345" height="202" key="GridCell.Tab.0.right" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.1.bottom" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.1.center" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.1.left" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.1.right" timestamp="1586006124632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586006124632" />
+    <state width="1345" height="202" key="GridCell.Tab.2.bottom" timestamp="1586006124633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586006124633" />
+    <state width="1345" height="202" key="GridCell.Tab.2.center" timestamp="1586006124633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1586006124633" />
+    <state width="1345" height="202" key="GridCell.Tab.2.left" timestamp="1586006124633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1586006124633" />
+    <state width="1345" height="202" key="GridCell.Tab.2.right" timestamp="1586006124633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="202" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1586006124633" />
+    <state width="1345" height="225" key="GridCell.Tab.3.bottom" timestamp="1585826997078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585826997078" />
+    <state width="1345" height="225" key="GridCell.Tab.3.center" timestamp="1585826997077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1585826997077" />
+    <state width="1345" height="225" key="GridCell.Tab.3.left" timestamp="1585826997076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1585826997076" />
+    <state width="1345" height="225" key="GridCell.Tab.3.right" timestamp="1585826997077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1585826997077" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586775905378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586775905378" />
+  </component>
+</project>

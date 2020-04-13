@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form class="form-horizontal" action='' method="POST">
+  {% csrf_token %}
+  <fieldset>
+    <div id="legend">
+      <legend class="heading">Reset Password</legend>
+    </div>
+
+    <div class="control-group">
+      <!-- Password-->
+      <label class="control-label" for="password">Old Password</label>
+      <div class="controls">
+        <input type="password" id="old_password" name="old_password" placeholder="" class="input-xlarge">
+      </div>
+    </div>
+
+    <div class="control-group">
+      <!-- New Password-->
+      <label class="control-label" for="password">New Password</label>
+      <div class="controls">
+        <input type="password" id="new_password" name="new_password" placeholder="" class="input-xlarge">
+      </div>
+    </div>
+
+    <div class="control-group">
+      <!-- Conform Password-->
+      <label class="control-label" for="password">Conform Password</label>
+      <div class="controls">
+        <input type="password" id="conform_password" name="conform_password" placeholder="" class="input-xlarge">
+      </div>
+    </div>
+
+    <div class="control-group">
+      <!-- Button -->
+      <div class="controls">
+        <button class="btn btn-success">Reset</button>
+      </div>
+    </div>
+
+  </fieldset>
+</form>
+
+{% endblock %}

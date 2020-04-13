@@ -1,0 +1,28 @@
+.forgot-para{
+margin-left: 180px;
+}
+
+.forgot-heading{
+padding-left: 500px;
+padding-top: 20px;
+padding-bottom: 20px;
+color: blue;
+font-weight: 800;
+font-size: 30px;
+background: rgb(255, 128, 179);
+}
+
+.forgot-control-group{
+padding-left: 350px;
+padding-top: 20px;
+}
+
+.forgot-control{
+padding-left: 350px;
+padding-top: 10px;
+padding-bottom: 12px;
+}
+
+.forgot-lock{
+padding-left: 600px;
+}
