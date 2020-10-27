@@ -9,7 +9,7 @@ colorama==0.4.3
 coreapi==2.3.3
 coreschema==0.0.4
 coverage==5.0.4
-cryptography==2.8
+cryptography==3.2
 Django==3.0.5
 django-admin==2.0.1
 django-excel-base==1.0.4
